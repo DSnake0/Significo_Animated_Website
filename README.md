@@ -30,7 +30,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/DSnake0/Significo_Animated_Website.git  
+git clone https://github.com/ExploitEngineer/Significo_Animated_Website.git  
 Navigate to the Project Directory:
 
 bash
